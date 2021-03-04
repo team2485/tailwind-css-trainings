@@ -1,4 +1,6 @@
-/*! tailwindcss v2.0.3 | MIT License | https://tailwindcss.com */
+/* Author: Brett Kim */
+
+/* ! tailwindcss v2.0.3 | MIT License | https://tailwindcss.com */
 
 /*! modern-normalize v1.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 
@@ -11537,6 +11539,11 @@ video {
 
 .text-9xl {
   font-size: 8rem;
+  line-height: 1;
+}
+
+.text-mammoth {
+  font-size: 10rem;
   line-height: 1;
 }
 
@@ -42166,6 +42173,11 @@ video {
     line-height: 1;
   }
 
+  .sm\:text-mammoth {
+    font-size: 10rem;
+    line-height: 1;
+  }
+
   .sm\:leading-3 {
     line-height: .75rem;
   }
@@ -72711,6 +72723,11 @@ video {
 
   .md\:text-9xl {
     font-size: 8rem;
+    line-height: 1;
+  }
+
+  .md\:text-mammoth {
+    font-size: 10rem;
     line-height: 1;
   }
 
@@ -103262,6 +103279,11 @@ video {
     line-height: 1;
   }
 
+  .lg\:text-mammoth {
+    font-size: 10rem;
+    line-height: 1;
+  }
+
   .lg\:leading-3 {
     line-height: .75rem;
   }
@@ -133810,6 +133832,11 @@ video {
     line-height: 1;
   }
 
+  .xl\:text-mammoth {
+    font-size: 10rem;
+    line-height: 1;
+  }
+
   .xl\:leading-3 {
     line-height: .75rem;
   }
@@ -164355,6 +164382,11 @@ video {
 
   .\32xl\:text-9xl {
     font-size: 8rem;
+    line-height: 1;
+  }
+
+  .\32xl\:text-mammoth {
+    font-size: 10rem;
     line-height: 1;
   }
 
